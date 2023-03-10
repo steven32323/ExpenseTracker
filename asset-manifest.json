@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/steven32323.github.io/ExpenseTracker/static/css/main.e9aad342.css",
+    "main.js": "/steven32323.github.io/ExpenseTracker/static/js/main.422fe467.js",
+    "index.html": "/steven32323.github.io/ExpenseTracker/index.html",
+    "main.e9aad342.css.map": "/steven32323.github.io/ExpenseTracker/static/css/main.e9aad342.css.map",
+    "main.422fe467.js.map": "/steven32323.github.io/ExpenseTracker/static/js/main.422fe467.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9aad342.css",
+    "static/js/main.422fe467.js"
+  ]
+}
